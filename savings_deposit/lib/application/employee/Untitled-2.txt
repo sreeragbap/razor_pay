@@ -1,0 +1,1 @@
+http://docker.mactech.net.in:5005/AddNotification?RequestJson={"Type":"AddNotificationRequest","Ver":1,"Data":{"Notifications":{"RefId":"108953","FirmId":0,"BranchId":0,"ModuleId":0,"DocId":null,"Status":O,"Subject":"OTP Generated","Receiver":"8281081024","NotificationType":"SMS","ResponseId":"Error"}}}

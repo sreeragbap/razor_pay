@@ -1,0 +1,16 @@
+{
+    "Type": "ValidationRequest",
+    "Ver": 1.0,
+    "JwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiI4OTFiMDI5Zi0xN2QyLTRkMmUtOTIwZi04ZDY4MzcwZGQ2ZDciLCJ1bmlxdWVfbmFtZSI6IjEyMzQ1IiwibmJmIjoxNjYwNjQwNjg5LCJleHAiOjE2NjA2NDc4ODksImlhdCI6MTY2MDY0MDY4OX0.LJGu1lpt139Q57SbwDuD_9ugZBvz9YR3oiSt0hLKH8w",
+    "Data": {
+      "Data": {
+        "Depositid":"0231510400060234",
+       
+      
+
+    
+      }
+    }
+}
+
+"Customerid":"31510003884843"
